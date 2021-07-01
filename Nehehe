@@ -1,0 +1,19 @@
+const CONFIG = {
+    introTitle: 'Xuân à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao Xuân cứ đi nhầm đường
+    Lạc vào tim Thư lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải chăng Xuân đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng Xuân đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích Thư <33',
+    btnNo: 'Không, Thư sao vậy.',
+    question:'Trên thế giới hơn 7 tỉ người mà sao Xuân lại thích Thư. <3',
+    btnReply: 'Gửi cho Thư hihi <3',
+    reply: 'Tại vì Thư xink dep tuyet voi nhat trong mat xuan hihi.',
+    mess: 'Ngại. Nhma Thư hong thích xuan',
+    messDesc: 'Cùng nhau hóng dramma tiep nhe bạnk.',
+    btnAccept: 'Okiiiii nè <3',
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
